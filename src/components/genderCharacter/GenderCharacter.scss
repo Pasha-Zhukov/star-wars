@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  display: flex;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  color: #212121;
+  .birth-year {
+    margin-top: 8px;
+    height: 16px;
+    padding: 0 5px;
+    background: #07d6f2;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+    line-height: 15px;
+    margin-right: 16px;
+    .modal {
+      margin-right: 10px;
+    }
+  }
+  .male {
+    margin-top: 8px;
+    height: 16px;
+    padding: 0 5px;
+    background: #73d677;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+    margin-right: 16px;
+  }
+  .hermaphrodite {
+    padding: 0 5px;
+    margin-top: 8px;
+    height: 16px;
+    background: #f5db13;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+    margin-right: 16px;
+  }
+  .female {
+    margin-top: 8px;
+    height: 16px;
+    padding: 0 5px;
+    background: #c956ff;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 11px;
+    margin-right: 16px;
+  }
+}

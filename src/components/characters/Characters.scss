@@ -1,0 +1,32 @@
+.container {
+  padding: 0 156px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-character {
+  cursor: pointer;
+  min-height: 136px;
+  width: 351px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  margin: 15px 25px 30px 25px;
+  padding: 5px 5px 5px 26px;
+  filter: drop-shadow(4px 4px 4px rgba(33, 33, 33, 0.1));
+  .nameCharacter {
+    font-family: "Karla";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-shadow: 4px 4px 4px rgba(33, 33, 33, 0.1);
+    text-align: left;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 930px) {
+  .container {
+    justify-content: center;
+    padding: 0 30px;
+  }
+}

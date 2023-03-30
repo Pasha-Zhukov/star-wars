@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Characters Get tree 1`] = `
+Array [
+  <div
+    className="container"
+  >
+    <div
+      className=""
+      onClick={[Function]}
+    />
+    <div
+      className="popup  "
+    >
+      <img
+        alt="closeIcon"
+        className="closeIcon"
+        onClick={[Function]}
+        src="closeIcon.png"
+      />
+      <div
+        className="iconBlock"
+      >
+        <div
+          className="wrapperModalGender"
+        >
+          <p
+            className="birth-yearModal"
+          />
+        </div>
+         
+      </div>
+      <div
+        className="infoBlock"
+      >
+        <p
+          className="nameModal"
+        />
+        <div
+          className="colorsModal"
+        >
+          <div>
+            null undefined
+          </div>
+          <div>
+            null undefined
+          </div>
+          <div>
+            null undefined
+          </div>
+        </div>
+        <div
+          className="wrapperModal"
+        />
+      </div>
+    </div>
+    <div />
+  </div>,
+  <div />,
+]
+`;
