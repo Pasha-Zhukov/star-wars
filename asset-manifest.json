@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb689329.css",
+    "main.js": "/static/js/main.eab9dd73.js",
+    "static/js/787.161ebaff.chunk.js": "/static/js/787.161ebaff.chunk.js",
+    "static/media/fourHundredFour.png": "/static/media/fourHundredFour.a272ac64831eb2eadf51.png",
+    "static/media/BannerComplete.png": "/static/media/BannerComplete.cef1ca6118241befd2c1.png",
+    "static/media/IconFemale.png": "/static/media/IconFemale.0fc5d781b9959c8884c2.png",
+    "static/media/cardImg.png": "/static/media/cardImg.9abad500799e1a4af999.png",
+    "static/media/logo.png": "/static/media/logo.59dea1a7abf8d65c2fba.png",
+    "index.html": "/index.html",
+    "main.eb689329.css.map": "/static/css/main.eb689329.css.map",
+    "main.eab9dd73.js.map": "/static/js/main.eab9dd73.js.map",
+    "787.161ebaff.chunk.js.map": "/static/js/787.161ebaff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb689329.css",
+    "static/js/main.eab9dd73.js"
+  ]
+}
