@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/star-wars/static/css/main.bc1f758f.css",
-    "main.js": "/star-wars/static/js/main.10061cc8.js",
+    "main.css": "/star-wars/static/css/main.2f3ac4b6.css",
+    "main.js": "/star-wars/static/js/main.0579ed8d.js",
     "static/js/787.161ebaff.chunk.js": "/star-wars/static/js/787.161ebaff.chunk.js",
     "static/media/fourHundredFour.png": "/star-wars/static/media/fourHundredFour.a272ac64831eb2eadf51.png",
     "static/media/BannerComplete.png": "/star-wars/static/media/BannerComplete.cef1ca6118241befd2c1.png",
@@ -9,12 +9,12 @@
     "static/media/cardImg.png": "/star-wars/static/media/cardImg.9abad500799e1a4af999.png",
     "static/media/logo.png": "/star-wars/static/media/logo.59dea1a7abf8d65c2fba.png",
     "index.html": "/star-wars/index.html",
-    "main.bc1f758f.css.map": "/star-wars/static/css/main.bc1f758f.css.map",
-    "main.10061cc8.js.map": "/star-wars/static/js/main.10061cc8.js.map",
+    "main.2f3ac4b6.css.map": "/star-wars/static/css/main.2f3ac4b6.css.map",
+    "main.0579ed8d.js.map": "/star-wars/static/js/main.0579ed8d.js.map",
     "787.161ebaff.chunk.js.map": "/star-wars/static/js/787.161ebaff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1f758f.css",
-    "static/js/main.10061cc8.js"
+    "static/css/main.2f3ac4b6.css",
+    "static/js/main.0579ed8d.js"
   ]
 }
