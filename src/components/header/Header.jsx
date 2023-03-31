@@ -6,13 +6,13 @@ import "./Header.scss";
 export const Header = () => {
   return (
     <div className="header">
-      <Link to="/">
+      <Link to="/star-wars">
         <img className="logo" src={logo} alt="Logo Star Wars" />
       </Link>
       <nav className="nav">
         <NavLink
           className={({ isActive }) => (isActive ? "active-link" : "link")}
-          to="/"
+          to="/star-wars"
         >
           Home
         </NavLink>

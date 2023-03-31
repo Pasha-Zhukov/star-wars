@@ -86,6 +86,7 @@
 .colorsModal {
   margin-top: 27px;
   margin-left: 10px;
+  margin-right: 65px;
   padding: 18px 23px;
   height: 104px;
   width: 264px;
@@ -138,7 +139,7 @@
 }
 .infoBlock {
   min-height: 371px;
-  min-width: 735px;
+  // min-width: 735px;
   padding: 30px 10px 10px 285px;
 }
 .iconBlock {
@@ -152,4 +153,30 @@
   background: #1f2a63;
   box-shadow: 4px 4px 8px rgba(1, 28, 64, 0.2);
   border-radius: 8px 0px 0px 8px;
+}
+@media (max-width: 930px) {
+  .active {
+    flex-wrap: wrap;
+    padding-top: 20px;
+  }
+  .iconBlock {
+    position: relative;
+  }
+  .infoBlock {
+    padding: 0;
+    width: 100%;
+  }
+  .closeIcon {
+    transform: translate(-5px, 25px);
+  }
+  .wrapperModalGender {
+    margin-top: 10px;
+  }
+  .colorsModal {
+    margin-right: 0;
+  }
+  .nameModal {
+    margin-top: 10px;
+    font-size: 25px;
+  }
 }

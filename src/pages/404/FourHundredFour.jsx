@@ -7,7 +7,7 @@ export function FourHundredFour() {
   return (
     <div className="container-404">
       <img className="img-404" src={fourHundredFour} alt="404" />
-      <Link to="/">
+      <Link to="/star-wars">
         <div>
           <button className="button-404">Return</button>
         </div>
